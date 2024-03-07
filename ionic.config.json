@@ -1,0 +1,7 @@
+{
+  "name": "qr-code-reader",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
